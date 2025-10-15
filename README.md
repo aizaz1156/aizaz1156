@@ -59,12 +59,6 @@ Applications of regression and clustering to mathematical datasets.
 
 ---
 
-### 📘 [MathResearch_UG_Project](https://github.com/aizazahmad92/MathResearch_UG_Project)
-Undergraduate project on geometric function theory — studying classes of analytic and univalent functions.  
-**Tools:** Python, MATLAB, LaTeX  
-
----
-
 ## 🧰 Tech Stack
 
 - **Languages:** Python, MATLAB, C++, LaTeX, HTML/CSS, PHP  
