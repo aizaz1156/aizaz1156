@@ -30,22 +30,16 @@ I am currently preparing my application for the **Hong Kong PhD Fellowship Schem
 ## 🔬 Research & Technical Interests
 
 - Computational Mathematics and Numerical Analysis  
-- Machine Learning and Data Science  
-- Geometric Function Theory and Complex Analysis  
+- Machine Learning and Data Science    
 - Optimization & Mathematical Modeling  
 - Artificial Intelligence for Scientific Computing  
-
+- Geometric Function Theory and Complex Analysis
+  
 ---
 
 ## 🧠 Sample Computational Projects
 
 Below are sample repositories demonstrating my computational and programming skills in mathematics, optimization, and data analysis.
-
-### 🌀 [PDE_Solver_Python](https://github.com/aizaz1156/PDE_Solver_Python)
-Finite difference and Fourier methods for solving partial differential equations.  
-**Tools:** Python, NumPy, Matplotlib  
-
----
 
 ### ⚙️ [Optimization_Methods](https://github.com/aizaz1156/Optimization_Methods)
 Implementation of gradient descent and convex optimization algorithms.  
